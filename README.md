@@ -1,6 +1,6 @@
 # rest.js
 
-> GitHub REST API client for JavaScript
+> GitHub REST API client for JavaScript 
 
 [![@latest](https://img.shields.io/npm/v/@octokit/rest.svg)](https://www.npmjs.com/package/@octokit/rest)
 ![Build Status](https://github.com/octokit/rest.js/workflows/Test/badge.svg)
